@@ -1,1 +1,2 @@
-# Portfolio_2025
+# My-Portfolio
+Responsive portfolio using HTML, CSS, JavaScript.
